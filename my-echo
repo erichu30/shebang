@@ -1,0 +1,2 @@
+#!/usr/bin/env echo arg-of-echo-in-shebang
+echo should-not-echo

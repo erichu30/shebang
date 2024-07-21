@@ -1,0 +1,2 @@
+#!./my-echo
+./my-echo arg-of-my-echo
